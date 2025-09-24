@@ -7,15 +7,18 @@ assignees: ''
 
 ---
 
-As a 
+**As a [role],**
+**I want [an action or feature],**
+**So that [a reason or benefit].**
 
-I need
+**Acceptance Criteria:**
+- Given XX
+- When XX
+- Then XX
 
-So that
-
-
-Given
-
-When
-
-Then
+**Definition of Done:**
+- [ ] All acceptance criteria are met.
+- [ ] Code is reviewed and approved.
+- [ ] Necessary tests are written and pass.
+- [ ] Documentation is updated, if applicable.
+- [ ] Feature is deployed to the [environment name].
